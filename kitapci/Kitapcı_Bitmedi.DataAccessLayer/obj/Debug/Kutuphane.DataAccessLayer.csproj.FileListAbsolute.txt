@@ -1,0 +1,45 @@
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\Kutuphane.DataAccessLayer.dll.config
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\Kutuphane.DataAccessLayer.dll
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\Kutuphane.DataAccessLayer.pdb
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\Kutuphane.EntityLayer.dll
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\Kutuphane.EntityLayer.pdb
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\Kutuphane.EntityLayer.dll.config
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\obj\Debug\Kutuphane.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\obj\Debug\Kutuphane.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\obj\Debug\Kutuphane.DataAccessLayer.csproj.CopyComplete
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\obj\Debug\Kutuphane.DataAccessLayer.dll
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\obj\Debug\Kutuphane.DataAccessLayer.pdb
+C:\Users\enesc\Desktop\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\Kutuphane.DataAccessLayer.dll.config
+C:\Users\enesc\Desktop\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\Kutuphane.DataAccessLayer.dll
+C:\Users\enesc\Desktop\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\Kutuphane.DataAccessLayer.pdb
+C:\Users\enesc\Desktop\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\enesc\Desktop\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\enesc\Desktop\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\Kutuphane.EntityLayer.dll
+C:\Users\enesc\Desktop\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\Kutuphane.EntityLayer.pdb
+C:\Users\enesc\Desktop\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\Kutuphane.EntityLayer.dll.config
+C:\Users\enesc\Desktop\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\enesc\Desktop\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\enesc\Desktop\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\obj\Debug\Kutuphane.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\enesc\Desktop\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\obj\Debug\Kutuphane.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\enesc\Desktop\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\obj\Debug\Kutuphane.DataAccessLayer.csproj.CopyComplete
+C:\Users\enesc\Desktop\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\obj\Debug\Kutuphane.DataAccessLayer.dll
+C:\Users\enesc\Desktop\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\obj\Debug\Kutuphane.DataAccessLayer.pdb
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\Kutuphane.DataAccessLayer.dll.config
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\Kutuphane.DataAccessLayer.dll
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\Kutuphane.DataAccessLayer.pdb
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\Kutuphane.EntityLayer.dll
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\Kutuphane.EntityLayer.pdb
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\Kutuphane.EntityLayer.dll.config
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\obj\Debug\Kutuphane.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\obj\Debug\Kutuphane.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\obj\Debug\Kutuphane.DataAccessLayer.csproj.CopyComplete
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\obj\Debug\Kutuphane.DataAccessLayer.dll
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.DataAccessLayer\obj\Debug\Kutuphane.DataAccessLayer.pdb

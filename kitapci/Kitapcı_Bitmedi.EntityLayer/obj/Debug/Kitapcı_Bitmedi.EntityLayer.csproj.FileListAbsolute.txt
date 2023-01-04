@@ -1,0 +1,12 @@
+C:\Users\osman\OneDrive\Masaüstü\wpfbitmedi\MikailKaynar_EnesÇelik_Kutuphane\Kitapcı_Bitmedi.EntityLayer\bin\Debug\Kitapcı_Bitmedi.EntityLayer.dll.config
+C:\Users\osman\OneDrive\Masaüstü\wpfbitmedi\MikailKaynar_EnesÇelik_Kutuphane\Kitapcı_Bitmedi.EntityLayer\bin\Debug\Kitapcı_Bitmedi.EntityLayer.dll
+C:\Users\osman\OneDrive\Masaüstü\wpfbitmedi\MikailKaynar_EnesÇelik_Kutuphane\Kitapcı_Bitmedi.EntityLayer\bin\Debug\Kitapcı_Bitmedi.EntityLayer.pdb
+C:\Users\osman\OneDrive\Masaüstü\wpfbitmedi\MikailKaynar_EnesÇelik_Kutuphane\Kitapcı_Bitmedi.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\osman\OneDrive\Masaüstü\wpfbitmedi\MikailKaynar_EnesÇelik_Kutuphane\Kitapcı_Bitmedi.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\osman\OneDrive\Masaüstü\wpfbitmedi\MikailKaynar_EnesÇelik_Kutuphane\Kitapcı_Bitmedi.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\osman\OneDrive\Masaüstü\wpfbitmedi\MikailKaynar_EnesÇelik_Kutuphane\Kitapcı_Bitmedi.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\osman\OneDrive\Masaüstü\wpfbitmedi\MikailKaynar_EnesÇelik_Kutuphane\Kitapcı_Bitmedi.EntityLayer\obj\Debug\Kitapcı_Bitmedi.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\osman\OneDrive\Masaüstü\wpfbitmedi\MikailKaynar_EnesÇelik_Kutuphane\Kitapcı_Bitmedi.EntityLayer\obj\Debug\Kitapcı_Bitmedi.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\osman\OneDrive\Masaüstü\wpfbitmedi\MikailKaynar_EnesÇelik_Kutuphane\Kitapcı_Bitmedi.EntityLayer\obj\Debug\Kitapcı_Bitmedi.EntityLayer.csproj.CopyComplete
+C:\Users\osman\OneDrive\Masaüstü\wpfbitmedi\MikailKaynar_EnesÇelik_Kutuphane\Kitapcı_Bitmedi.EntityLayer\obj\Debug\Kitapcı_Bitmedi.EntityLayer.dll
+C:\Users\osman\OneDrive\Masaüstü\wpfbitmedi\MikailKaynar_EnesÇelik_Kutuphane\Kitapcı_Bitmedi.EntityLayer\obj\Debug\Kitapcı_Bitmedi.EntityLayer.pdb

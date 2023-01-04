@@ -1,0 +1,24 @@
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\bin\Debug\Kutuphane.EntityLayer.dll.config
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\bin\Debug\Kutuphane.EntityLayer.dll
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\bin\Debug\Kutuphane.EntityLayer.pdb
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\bin\Debug\EntityFramework.dll
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\bin\Debug\EntityFramework.xml
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\obj\Debug\Kutuphane.EntityLayer.csproj.AssemblyReference.cache
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\obj\Debug\Kutuphane.EntityLayer.csproj.CoreCompileInputs.cache
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\obj\Debug\Kutuphane.EntityLayer.csproj.CopyComplete
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\obj\Debug\Kutuphane.EntityLayer.dll
+D:\Kayıt dosyaları\GorselProje\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\obj\Debug\Kutuphane.EntityLayer.pdb
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\bin\Debug\Kutuphane.EntityLayer.dll.config
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\bin\Debug\Kutuphane.EntityLayer.dll
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\bin\Debug\Kutuphane.EntityLayer.pdb
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\obj\Debug\Kutuphane.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\obj\Debug\Kutuphane.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\obj\Debug\Kutuphane.EntityLayer.csproj.CopyComplete
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\obj\Debug\Kutuphane.EntityLayer.dll
+C:\Users\osman\OneDrive\Masaüstü\MikailKaynar_EnesCelik_Kutuphane\MikailKaynar_EnesÇelik_Kutuphane\Kutuphane.EntityLayer\obj\Debug\Kutuphane.EntityLayer.pdb

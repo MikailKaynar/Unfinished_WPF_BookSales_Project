@@ -1,0 +1,123 @@
+﻿<Window x:Class="Kitapcı_Bitmedi.PresentationLayer.Views.SatisViews.SatisEkle"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kitapcı_Bitmedi.PresentationLayer.Views.SatisViews"
+        mc:Ignorable="d"
+        Title="SatisEkle" Height="850" Width="1300">
+    <Window.Resources>
+        <Style x:Key="GreenButton" TargetType="{x:Type Button}">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="FontSize" Value="30"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Background" Value="#74c69d"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="bd"
+                                Background="{TemplateBinding Background}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="10">
+                            <ContentPresenter
+                                HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                TextBlock.Foreground="{TemplateBinding Foreground}">
+                            </ContentPresenter>
+
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="bd" Property="Background" Value="#52b788 "/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="bd" Property="Background" Value="#40916c "/>
+                            </Trigger>
+
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid Background="#363946">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.24*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.2*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Image Width="140" Grid.Column="0" Source="/Images/Logo.png" >
+            <Image.Effect>
+                <DropShadowEffect ShadowDepth="0" Color="Black" BlurRadius="20" Opacity="0.4"/>
+            </Image.Effect>
+        </Image>
+        <TextBlock Grid.Column="1" Text="Kitaplar" Margin="0 0 600 0"
+                   FontSize="60" HorizontalAlignment="Center"
+                   Foreground="#52FFEE"
+                   VerticalAlignment="Center"/>
+        <StackPanel Grid.Column="2"  Grid.Row="0" 
+                    Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center"
+                    Margin="35,0">
+            <TextBlock Text="Kitap Ad=" Foreground="White"
+                       FontSize="30" VerticalAlignment="Center"/>
+            <TextBox VerticalAlignment="Center" Width="200"
+                     Margin="0 0 50 0" Style="{StaticResource MaterialDesignDataGridTextColumnEditingStyle}"/>
+
+            <Button Content="Ekle"
+                    Width="180"
+                    Height="65"
+                    Margin="5,0"
+                    Command="{Binding EkleCommand}"
+                    Style="{StaticResource GreenButton}"/>
+
+
+
+        </StackPanel>
+
+        <Border Background="#ffff" BorderThickness="9" CornerRadius="60"
+                Margin="25,50" Grid.Row="1" Grid.Column="1">
+            <Border Background="#ffff" BorderThickness="9" CornerRadius="60"
+                Margin="25,30">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="50"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="60"/>
+                    </Grid.RowDefinitions>
+                    <DataGrid  Grid.Row="2"
+                      AutoGenerateColumns="False"
+                      ItemsSource="{Binding Items}"
+                      SelectedItem="{Binding SelectedItem}"
+                      IsReadOnly="True"
+                      SelectionMode="Single"
+                      SelectionUnit="FullRow">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Kitap Id" Binding="{Binding Kitap.KitapId}"/>
+                            <DataGridTextColumn Header="Kitap Ad" Binding="{Binding Kitap.KitapAd}"/>
+                            <DataGridTextColumn Header="Fiyat" Binding="{Binding Tutar}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Button Content="Kaydet"
+                    Width="180"
+                    Height="65"
+                    Margin="5,0"
+                    Grid.Row="3"
+                    HorizontalAlignment="Right"
+                    Command="{Binding TamamlaCommand}"
+                    Style="{StaticResource GreenButton}"/>
+                </Grid>
+            </Border>
+            <Border.Effect>
+                <DropShadowEffect ShadowDepth="0" BlurRadius="40" Color="#52FFEE"/>
+            </Border.Effect>
+        </Border>
+    </Grid>
+</Window>
